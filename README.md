@@ -30,6 +30,3 @@ Watch the [demo video on YouTube](https://www.youtube.com/watch?v=pO8zOXeTQyE&t=
 
 - Developed as part of the CS50 Introduction to Game Development course.
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
